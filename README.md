@@ -26,6 +26,10 @@ HOW TO USE:
 
 9) take a look at app
 
+ _________OR__________
+ 
+ You can do the above steps on a Linux system as described in the video
+ 
 The app returns the karaoke version of the input file.
 Plug in your headphones and sing to the music. The app records your vocals, and returns a frequency vs time graph comparing your singing to the original. The graph reveals where you need to increase or decrease your pitch to hit those high or low notes. Practice, and end up mastering the notes! Compete with your friends to get the closest-to-original graph.
 
