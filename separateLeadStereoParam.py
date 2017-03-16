@@ -486,7 +486,7 @@ def main(inputAudioFile):
     #Number of iterations
     parser.add_option("--nb-iterations", dest="nbiter",
                       help="number of iterations", type="int",
-                      default=50)
+                      default=0)
     parser.add_option("--window-size", dest="windowSize", type="float",
                       default=0.04644,help="size of analysis windows, in s.")
     parser.add_option("--Fourier-size", dest="fourierSize", type="int",

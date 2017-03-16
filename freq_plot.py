@@ -1,4 +1,6 @@
 import math
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from pylab import savefig
 
@@ -18,4 +20,3 @@ def frequency_plot(a,b,c):
 
 	savefig('foo.png', bbox_inches='tight')
 	# plt.show()
-
