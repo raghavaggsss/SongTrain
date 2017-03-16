@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    
+{% load static %}
+
+<link href="{% static 'core/bootstrap.min.css' %}" rel="stylesheet"/>
+
+<link rel="stylesheet" type="text/css" href="{% static 'core/style.css' %}" />
+    <title>Songtrain</title>
+   
+  </head>
+  <body>
+    <h1>SongTrain</h1>
+    <div class="list">Sing Evaluate Improve</div>
+    
+    
+    {% block content %}
+    {% endblock %}
+  </body>
+</html>
