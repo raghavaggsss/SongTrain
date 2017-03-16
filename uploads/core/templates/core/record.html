@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block content %}
+    
+
+  
+{% if uploaded_file_url %}
+   <div class="intro">Step2 : Here is your Karaoke! Be prepared for the recording!
+   <br><br>
+   <audio controls>
+        <source src= /{{karaoke_url}} type="audio/wav">
+   </audio>
+   </div>
+
+
+    <div class = "btn btn-primary" onclick = "window.location.href = '{% url 'evaluate' %}';" id = "start">
+        Start Singing
+      </div>
+
+  {% endif %}
+{% endblock %}
