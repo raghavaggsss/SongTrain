@@ -1,4 +1,4 @@
-Azure VM SSH
+Azure VM SSH \n
 Hashing to check for similar songs and save processing
 s3 amazon storage - azure analog, store only links in django db
 Feasibility of app - profit, iterations at cost, short trial, send mail when processing over
