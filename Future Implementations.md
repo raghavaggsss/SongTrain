@@ -1,5 +1,5 @@
 Azure VM SSH <br>
-Hashing to check for similar songs and save processing
-s3 amazon storage - azure analog, store only links in django db
-Feasibility of app - profit, iterations at cost, short trial, send mail when processing over
+Hashing to check for similar songs and save processing <br>
+s3 amazon storage - azure analog, store only links in django db <br>
+Feasibility of app - profit, iterations at cost, short trial, send mail when processing over <br>
 parallel processing by checking 
